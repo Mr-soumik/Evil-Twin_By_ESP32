@@ -5,6 +5,12 @@
 
 ---
 
+## Connect with TechTadka360💝👇
+
+- YouTube: [@techtadka360official](https://youtube.com/@techtadka360official?si=GdlIntZKv30kPgBk)
+- Instagram: [@techtadka360official](https://www.instagram.com/techtadka360official?igsh=cWR4bnhjdWw1MHdh)
+- Facebook: [TechTadka360](https://www.facebook.com/share/1EkKAJNLdB/)
+
 ## 🧠 Tags
 
 `ESP32` `IoT` `WiFi Hacking` `Deauthentication` `Captive Portal` `Microcontroller Security` `Arduino`
@@ -24,6 +30,14 @@
 ---
 
 ### 🎥 **Demo Video**
+<img width="467" height="685" alt="image" src="https://github.com/user-attachments/assets/291edf20-a8e1-4c95-a606-af2a2cd6d1d0" />
+
+### Link 
+       👉 https://youtube.com/shorts/-tXpGUwGjTg?si=4TCFu4tn10vCfs94
+
+        👉  https://www.instagram.com/reel/DeUJe11pj5I/?utm_source=ig_web_copy_link&psln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==
+        
+        👉  https://www.facebook.com/share/r/19d3EJWm1p/
 
 Check out the demo of this project in action! 🎬  
 
